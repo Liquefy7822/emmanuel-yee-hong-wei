@@ -10,16 +10,18 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-  <main>
+    <main>
     <Header title="Welcome to my app!" />
     <p className="description">
 
       Get started by editing <code>pages/index.js</code>
 
-   <p className="description">   
-    <strong>Emmanuel Yee Hong Wei</strong> </p>
+    </p>
+    <p className="description">
 
+      welcome to my app!
 
+    </p>
 
     <p className="description">
 
@@ -27,12 +29,6 @@ export default function Home() {
         TechnoBear is a website dedicated to showcasing the work of TechnoBear. You can find his latest projects, news and updates here. 
 
     </p>
-    <p className="social-links">       
-    <a href="https://www.facebook.com/example">Facebook</a> | <a href="https://twitter.com/example">Twitter</a> | <a href="https://www.instagram.com/example">Instagram
-    </a>     
-    </p>   
-
-
 
   </main>
 
