@@ -29,6 +29,16 @@ export default function Home() {
         TechnoBear is a website dedicated to showcasing the work of TechnoBear. You can find his latest projects, news and updates here. 
 
     </p>
+    
+    <header className="social">   
+    <div>     
+    <a href="https://twitter.com/yourusername" className="social-twitter">Twitter</a>     
+    <a href="https://www.facebook.com/yourusername" className="social-facebook">Facebook</a>     
+    <a href="https://www.instagram.com/yourusername" className="social-instagram">Instagram</a>   
+    </div> 
+    </header>
+
+
 
   </main>
 
