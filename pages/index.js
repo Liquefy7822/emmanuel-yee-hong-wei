@@ -12,14 +12,10 @@ export default function Home() {
 
     <main>
     <Header title="Emmanuel Yee Hong Wei" />
+
     <p className="description">
 
-      Get started by editing <code>pages/index.js</code>
-
-    </p>
-    <p className="description">
-
-      Welcome to my app!
+      Welcome to my Site!
 
     </p>
 
@@ -32,13 +28,13 @@ export default function Home() {
     
     <header className="social">   
     <div>     
-    <a href="https://twitter.com/yourusername" className="social-twitter">Twitter</a>     
+    <a href="https://bento.me/emmanuelyee" className="social-bento.me">My Bento</a>     
     </div> 
     </header>
     
     <header className="social">   
     <div>
-    <a href="https://www.facebook.com/yourusername" className="social-facebook">Facebook</a>     
+    <a href="https://read.cv/emmanuelyee" className="social-read.cv">Resume</a>     
     </div> 
     </header>
     
