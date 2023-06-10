@@ -33,7 +33,17 @@ export default function Home() {
     <header className="social">   
     <div>     
     <a href="https://twitter.com/yourusername" className="social-twitter">Twitter</a>     
+    </div> 
+    </header>
+    
+    <header className="social">   
+    <div>
     <a href="https://www.facebook.com/yourusername" className="social-facebook">Facebook</a>     
+    </div> 
+    </header>
+    
+    <header className="social">   
+    <div>
     <a href="https://www.instagram.com/yourusername" className="social-instagram">Instagram</a>   
     </div> 
     </header>
